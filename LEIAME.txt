@@ -1,0 +1,11 @@
+tutorial de como abrir o arquivo.py 
+
+entre no terminal e acesse a pasta onde o repositório se encontra
+
+pelo terminal, digite: 
+
+######
+python Calculadora.py
+######
+
+e siga as instruções, não há necessidade de arquivos adicionais.

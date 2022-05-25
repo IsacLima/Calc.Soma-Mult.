@@ -1,0 +1,3 @@
+from ModuloCalc import *
+
+menu()
